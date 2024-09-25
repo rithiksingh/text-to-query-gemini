@@ -1,5 +1,5 @@
 QueryCraft
-QueryCraft is a Streamlit application that utilizes Google Gemini's language model to convert natural language queries into SQL commands. This project is built using Python, Streamlit, and the Google Gemini API. The QueryCraft app can be accessed here
+QueryCraft is a Streamlit application that utilizes Google Gemini's language model to convert natural language queries into SQL commands. This project is built using Python, Streamlit, and the Google Gemini API. The QueryCraft app can be accessed: https://text-to-query-gemini.streamlit.app/ (here)
 
 Table Structure
 The app uses a predefined table "students" stored in the "student.db" file with the following structure:
